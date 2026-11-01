@@ -6,8 +6,6 @@
 ![Dashboard](AT1.png)
 
 ## 📖 The story in 30 seconds
-
-Imagine you are the HR head. The CEO asks: *"Why are we losing so many people?"*
 The data gives a clear answer. Attrition is not random. It clusters around a few specific groups:
 
 | 🔍 Finding | The numbers |
