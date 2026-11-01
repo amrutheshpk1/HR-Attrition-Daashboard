@@ -3,7 +3,7 @@
 > **237 of 1,470 employees left the company, a 16.1% attrition rate.**
 > This Power BI project finds out *who* is leaving, *why* they might be leaving, and *what HR can do about it*.
 
-![Dashboard]("C:\Users\1996a\OneDrive\문서\powerbi\HR-Attrition\AT1.png")
+![Dashboard](AT1.png)
 
 ## 📖 The story in 30 seconds
 
